@@ -1,0 +1,7 @@
+{
+  "dailyFreeLimit": 100,
+  "freeSaveLimit": 100,
+  "paywallEnabled": true,
+  "freeWordCount": 40,
+  "freeLevels": ["A1"]
+}
